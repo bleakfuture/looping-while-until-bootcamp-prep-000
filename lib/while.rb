@@ -2,7 +2,7 @@ def using_while
   levitation_force = 6
 	
   #your code here
-using_while < 10
+while levitation_force
 puts "Wigardium Leviosa"
   levitation_force += 1
   
